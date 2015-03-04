@@ -1,9 +1,9 @@
 # Raspmesh-Pi
-Raspmesh-Pi é um projeto de rede mesh WiFi open source com nodes utilizando Raspberry Pi com OpenWRT e Energia Solar
+Raspmesh-Pi Ã© um projeto de rede mesh WiFi open source com nodes utilizando Raspberry Pi com OpenWRT e Energia Solar
 ### Materiais Necessarios
 - Raspberry Pi B+
 - Alfa Network AWUS036NEH
-- Placa Fotovoltaica
+- Placa Fotovoltaica 5W
 - Controlador de carga
 - Bateria 5V
 - Caixa hermitica vedada
