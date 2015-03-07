@@ -7,3 +7,4 @@ Raspmesh-Pi é um projeto de rede mesh WiFi open source com nodes utilizando Ras
 - Controlador de carga
 - Bateria 5V
 - Caixa hermitica vedada
+- Cartão SD
